@@ -1,0 +1,136 @@
+[
+    {
+        "question": "What is a stock?",
+        "optionA": "An IOU of a corporation.",
+        "optionB": "A piece of ownership in a corporation.",
+        "optionC": "Total ownership of a corporation.",
+        "optionD": "A retirement investment.",
+        "answer": "A piece of ownership in a corporation."
+    },
+
+    {
+        "question": "In which  year did a stock market crash have no effect on the overall economy?",
+        "optionA": "2008",
+        "optionB": "1987",
+        "optionC": "1927",
+        "optionD": "2001",
+        "answer": "1987"
+    },
+
+    {
+        "question": "When you recieve corporate profits from your ownership of stock you are?",
+        "optionA": "Buying low and selling high",
+        "optionB": "Buying high and selling low",
+        "optionC": "Short selling low and short covering high",
+        "optionD": "Gaining dividends",
+        "answer": "Gaining dividends"
+    },
+
+    {
+        "question": "What type of stocks would you want to short sell?",
+        "optionA": "Stock with the potential to gain value in the future",
+        "optionB": "Stock with high corporate profits",
+        "optionC": "Stock that may be experiencing lost value in the future",
+        "optionD": "Stock that will keep a constant value",
+        "answer": "Stock that may be experiencing lost value in the future"
+    },
+
+    {
+        "question": "Name one company listed on the DJIA in 1929.",
+        "optionA": "Microsoft",
+        "optionB": "United Airlines (UAL)",
+        "optionC": "International Harvester",
+        "optionD": "Intel",
+        "answer": "International Harvester"
+    },
+
+    {
+        "question": "Name one company on the DJIA today?",
+        "optionA": "AT&T",
+        "optionB": "Woolworths",
+        "optionC": "U.S.Steel",
+        "optionD": "Disney",
+        "answer": "Disney"
+    },
+
+    {
+        "question": "What is the purpose of the DJIA?",
+        "optionA": "t is a company that invests in the stock market.",
+        "optionB": "It is an index of the 30 leading stocks in each industry traded on the New York Stock Exchange.",
+        "optionC": "It is an index that gives general information about the performance of each stock.",
+        "optionD": "All of the above.",
+        "answer": "It is an index of the 30 leading stocks in each industry traded on the New York Stock Exchange."
+    },
+
+    {
+        "question": "What professions are associated with financial markets?",
+        "optionA": "Stock broker",
+        "optionB": "Bond dealer",
+        "optionC": "Commodities broker",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+
+    {
+        "question": "When you purchase a stock for $10.00 and then sell it one month later at $20.00 you are?",
+        "optionA": "Buying low and selling high",
+        "optionB": "Buying high and selling low",
+        "optionC": "Short selling high and short covering low",
+        "optionD": "Short selling low and short covering high",
+        "answer": "Buying low and selling high"
+    },
+
+    {
+        "question": "What is SP-500?",
+        "optionA": "A crop of wheat",
+        "optionB": "The name of Mumbai-based office of SEBI",
+        "optionC": "A stock exchange of USA",
+        "optionD": "A scheme announced by the Government of India",
+        "answer": "A stock exchange of USA"
+    },
+
+    {
+        "question": " How many companies are included in the SENSEX?",
+        "optionA": "30",
+        "optionB": "50",
+        "optionC": "111",
+        "optionD": "25",
+        "answer": "30"
+    },
+
+    {
+        "question": "KOSPI is the index of which country?",
+        "optionA": "Japan",
+        "optionB": "South Korea",
+        "optionC": "Singapore",
+        "optionD": "France",
+        "answer": "South Korea"
+    },
+
+    {
+        "question": " Which of the following index is not matched correctly?",
+        "optionA": "SET: Thailand",
+        "optionB": "JCI: Japan",
+        "optionC": "NASDAQ: America",
+        "optionD": "TSEC: Taiwan",
+        "answer": "JCI: Japan"
+    },
+
+    {
+        "question": "Which of the following is responsible for the fluctuations in the Sensex?",
+        "optionA": "Rain",
+        "optionB": "Monetary policy",
+        "optionC": "Political instability",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+
+    {
+        "question": "Which of the following is not a credit rating agency?",
+        "optionA": "CRISIL",
+        "optionB": "ICRA",
+        "optionC": "NIKKEI",
+        "optionD": "CARE",
+        "answer": "NIKKEI"
+    }
+]

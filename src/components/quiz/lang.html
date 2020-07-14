@@ -1,0 +1,28 @@
+<html>
+    <head>
+
+
+</head>
+<body>
+    <script>
+        window.onload = function() {
+           // 実行したい処理
+          Swal.fire({
+                showClass: {
+                      popup: 'animate__animated animate__fadeInDown'
+                    },
+              imageUrl: '/img/language.png',
+              imageHeight: 70,
+            html:
+              '<a href="/lang/ja" class="btn-animation-n2 wow fadeIn" data-wow-delay=".2s"  style="width: 100%;border-radius: 3px;margin-bottom:15px;font-size: 16px; visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">日本語</a><br/> ' +
+              '<a href="/lang/en" class="btn-animation-n2 wow fadeIn" data-wow-delay="0.3s" style="width: 100%;border-radius: 3px;margin-bottom:15px;font-size: 16px; visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">English</a><br/>  '  +
+              '<a href="/lang/vi" class="btn-animation-n2 wow fadeIn" data-wow-delay="0.5s" style="width: 100%;border-radius: 3px;margin-bottom:15px;font-size: 16px; visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">Tiếng Việt</a><br/>  '  +
+              '<a href="/lang/id" class="btn-animation-n2 wow fadeIn" data-wow-delay="0.7s" style="width: 100%;border-radius: 3px;margin-bottom:15px;font-size: 16px; visibility: visible; animation-delay: 0.7s; animation-name: fadeInUp;">Bahasa Indonesia</a><br/>  ' , 
+              showCloseButton: true,
+              showConfirmButton: false,
+          })
+        }
+        </script>
+
+</body>
+</html>
